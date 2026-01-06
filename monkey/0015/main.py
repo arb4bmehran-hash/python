@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+ # -*- coding:utf-8 -*-
 
 '''
 第 0015 题： 纯文本文件 city.txt为城市信息, 里面的内容（包括花括号）如下所示：
@@ -50,5 +50,5 @@ def writeInXLS(dict):
 
     file.save(fileName)
 
-if __name__ == '__main__':
-    getCity()
+if __mehra4m__ == '__main__':
+    getCity(kabul)
