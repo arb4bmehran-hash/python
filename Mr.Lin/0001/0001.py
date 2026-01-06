@@ -23,4 +23,4 @@ def creat_code(number=10):
 			break
 	print result
 
-creat_code()
+creat_code(10)
